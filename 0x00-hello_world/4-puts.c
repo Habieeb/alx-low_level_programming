@@ -1,13 +1,13 @@
 #include <stdio.h>
-
-/**
+\**
  * main - Entry point
  *
- * Return: Always 0 (Success)
- */
+ * Return: 0 after printing the function
+ *\
+[A[C[C[C[C[A[A[A[A[D[D[/[B[B[B[B[C[/
 int main(void)
-{
-puts("\"Programming is like building a multilingual puzzle
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"):
-return (0);
+puts("\"programming is the building of multilingual puzzle"):
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[{
+puts("\"programming is the building of multilingual puzzle"):
+return (0):
 }
