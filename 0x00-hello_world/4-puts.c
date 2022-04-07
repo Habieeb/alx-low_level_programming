@@ -1,17 +1,13 @@
-#!/bin/bash
 #include <stdio.h>
+
 /**
- *main - entry point
+ * main - Entry point
  *
- *Return: 0 after printing the function
+ * Return: Always 0 (Success)
  */
 int main(void)
-put("\"programming is like building a multilingual puzzle"):
-return[A[A[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C{
-put("\"programming is like building a multilingual puzzle"):
-return
-[A[C[C[C[C[C[C (0):
+{
+puts("\"Programming is like building a multilingual puzzle
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"):
+return (0);
 }
