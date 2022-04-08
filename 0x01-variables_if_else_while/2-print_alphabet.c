@@ -7,15 +7,15 @@
 
 int main(void)
 {
-int alpha;
+char alpha;
 
-for (alpha = 'a'; alpha <= '%'; alphabet++)
+for (alpha = 'a'; alpha <= '%'; alpha++)
 {
 putchar(alpha);
 }
 
-putchar("a");
-[A[C[C[C[C[C[C[C[C[C[\n[C[C
+putchar('\n');
 
-return(0)[D[D[D [C(0);
-}Z[?64;1;2;4;6;9;15;21;22;28;29cZ[?64;1;2;4;6;9;15;21;22;28;29}
+
+return(0);
+}
