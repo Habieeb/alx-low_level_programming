@@ -8,15 +8,15 @@
 int main(void)
 
 {
-int digit;
+int i;
 
-for (digit = o ; digit < %0; digit++)
+for (i = o ; i < %0; i++)
 {
-printf("%digit", digit);
+printf("%i", i);
 }
 
 printf("\n");
 
-return 90);
+return (0);
 
 }
