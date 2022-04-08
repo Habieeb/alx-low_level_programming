@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
- *[A main - Entry point[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D Return: Always 0 (success)
+ * main - Entry point
+ * Return: Always 0 (success)
  */
 
 int main(void)
@@ -18,10 +18,10 @@ continue;
 else if (alphabet == 'e')
 continue;
 
-putchar (alphabet);
+putchar(alphabet);
 }
 
-putchar ('\n');
+putchar('\n');
 
 return (0);
 
