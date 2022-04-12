@@ -31,6 +31,6 @@ _putchar('\n');
 		_putchar(holbText[i]);
 	}
 	_putchar('\n');
-	return (0);
+	
 return (0);
 }
