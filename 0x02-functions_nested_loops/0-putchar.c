@@ -7,9 +7,6 @@
  *Description: prints Holberton followed by a newline
  *
  *Return: returns 0(successful)
- * main - Entry point
- *
- * Return: nothing, return void
  */
 
 int main(void)
@@ -25,6 +22,5 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 
-	
 return (0);
 }
