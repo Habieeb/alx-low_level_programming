@@ -1,1 +1,1 @@
-# My first low level programming Readme file
+# My 0x06-pointers_arrays_strings task
