@@ -32,6 +32,5 @@ int *array_range(int min, int max)
 		p[i] = j;
 	if (max == min)
 		p[i] = max;
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-        return (p);
+	return (p);
 }
